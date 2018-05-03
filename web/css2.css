@@ -1,0 +1,29 @@
+  .panel .panel-heading {
+        color: #ffd;
+        background-color: #4CAF50;
+        border-color: #4CAF50;
+
+      }
+      td,tbody, table, tr, th{
+        background-color: #C0F798;
+        border-color: #4CAF50;
+      }
+      body{
+        background-color: #D1F1BA;
+      }
+      #eli:hover{
+        background-color: red;
+        color: white;
+      }
+      #mod:hover{
+        background-color: blue;
+        color: white;
+      }
+      #pri:hover{
+        background-color: green;
+        color: white;
+      }
+      #panel2{
+        background-color: #C0F798;
+      }
+      
